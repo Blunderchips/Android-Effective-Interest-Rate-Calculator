@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Effective Interest Rate Calculator "</string>
+    <string name="adUnitId">ca-app-pub-7186830154970754/4071628222</string>
+    <string name="ga_trackingID" translatable="false">UA-88179631-6</string>
+</resources>
