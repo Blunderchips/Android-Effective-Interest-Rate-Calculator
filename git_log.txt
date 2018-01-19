@@ -1,0 +1,48 @@
+commit bea00f9c87be93898222ae47adbc6a4b35af9f34
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 13:04:49 2018 +0200
+
+    Moved title screens
+
+commit dfb6ccddb57dc7fb53430b2562f2a506360098a7
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 12:41:54 2018 +0200
+
+    Update README.md
+    
+    Added License to README
+
+commit 12aa0e69b4925ed9c776ec25a595d37d70df87ac
+Merge: 2d49480 018f2e3
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 11:13:18 2018 +0200
+
+    Merge branch 'master' of https://github.com/Blunderchips/Effective-Interest-Rate-Calculator
+
+commit 2d4948034573663b920cd1be09ab438ee37b5870
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 11:11:43 2018 +0200
+
+    Added YouTube video
+    
+    https://www.youtube.com/watch?v=s8yuGVhRtQk
+
+commit 018f2e3c5c94160b79a7ce744ea58da611c9c682
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 11:04:24 2018 +0200
+
+    Update README.md
+    
+    Added info from play store page
+
+commit a6cfd7239867c5ccd5ef7d2683afb3a1191d2731
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 11:01:33 2018 +0200
+
+    Inital Commit
+
+commit 739b8e5e35347b3be9d0d21e89410f59623c9880
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 10:59:41 2018 +0200
+
+    Initial commit
