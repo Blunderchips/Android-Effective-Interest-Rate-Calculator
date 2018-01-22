@@ -1,6 +1,7 @@
 # Effective Interest Rate Calculator Android App
+### A simple app designed to do just that.
 
-This app is designed to calculate effective interest rates and nothing else. It is hopefully the first in a series of apps i intent to make with each app performing a single mathematical task. The idea being that a user downloads the app, performs the calculation they with to perform and the uninstall the app.
+This app is designed to calculate effective interest rates and nothing else. It is hopefully the first in a series of apps I intend to make with each app performing a single mathematical task. The idea is that a user downloads the app, performs the calculation they wish to perform and then uninstall the app. The free version contains ads.
 
 https://www.youtube.com/watch?v=s8yuGVhRtQk
 
