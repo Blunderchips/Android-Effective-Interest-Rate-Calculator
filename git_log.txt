@@ -1,8 +1,23 @@
-commit f981372eea17d7bc23cb57bb2303cddfb4c41fed
+commit efc683d5a0d0f9589ad03ea366cf0f43f3dfb62d
+Merge: e0db304 37cd5da
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sun Jan 28 14:32:29 2018 +0200
+
+    Merge branch 'master' of https://github.com/Blunderchips/Effective-Interest-Rate-Calculator
+
+commit e0db304a35a7e1b4f397fe376a1b0010e5e0e49d
 Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
 Date:   Sun Jan 28 14:31:47 2018 +0200
 
     Added chart image
+
+commit 37cd5da1a8e667b872990efa154a4e9f92aa5f72
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Mon Jan 22 09:37:16 2018 +0200
+
+    Update README.md
+    
+    Updated description (Fixed gramer issues).
 
 commit 7a8a5272ef6dadc71472981fab2ea1e4608efcc8
 Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
