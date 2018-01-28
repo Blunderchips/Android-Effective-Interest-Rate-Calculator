@@ -1,3 +1,15 @@
+commit f981372eea17d7bc23cb57bb2303cddfb4c41fed
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Sun Jan 28 14:31:47 2018 +0200
+
+    Added chart image
+
+commit 7a8a5272ef6dadc71472981fab2ea1e4608efcc8
+Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
+Date:   Fri Jan 19 13:15:22 2018 +0200
+
+    Created git log
+
 commit bea00f9c87be93898222ae47adbc6a4b35af9f34
 Author: Matthew 'siD' Van der Bijl <matthewvdbijl@gmail.com>
 Date:   Fri Jan 19 13:04:49 2018 +0200
